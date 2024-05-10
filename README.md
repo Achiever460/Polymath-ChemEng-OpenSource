@@ -15,7 +15,7 @@ Polymath-ChemEng-OpenSource is an initiative to develop an open-source alternati
 ## Installation:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/Polymath-ChemEng-OpenSource/Polymath-ChemEng-OpenSource.git
+git clone [https://github.com/Achiever460/Polymath-ChemEng-OpenSource].git
 
 2. Navigate to the project directory:
 cd Polymath-ChemEng-OpenSource
